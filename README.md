@@ -22,4 +22,4 @@ The Library Management System is a Java-based academic project designed to manag
 1. Clone or download this repository to your local machine.
 
 ```shell
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/metapa10/library-management-system.git
